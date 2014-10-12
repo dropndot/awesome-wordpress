@@ -12,9 +12,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 		- [Debug](#debug-plugins)
 	- [Command Line](#command-line)
 	- [Marketplaces](#marketplaces)
-- [Resources](#resources)
-	- [Websites](#websites)
-	- [Books](#books)
+- [Communities](#communities)
 - [Contributing](#contributing)
 
 ## Core
@@ -52,13 +50,10 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 ## Marketplaces
 * [Themeforest](http://themeforest.net/) - A most popular wordpress theme, plugins and other digital goods selling marketplace.
 * [Creativemarket](https://creativemarket.com/) - WordPress theme and plugins selling marketplace.
+* [WordPress Listed](https://wordpress.org/themes/commercial/) - Other sources to buy Premium WordPress Theme.
 
-# Resources
-
-## Websites
+## Communities
 * [stackoverflow](http://stackoverflow.com/questions/tagged/wordpress) - Question/answer platform.
-
-## Books
 
 ## Contributing
 
