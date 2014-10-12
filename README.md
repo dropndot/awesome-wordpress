@@ -5,6 +5,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
 	- [Theme Development](#theme-development)
+	 	- [Theme Frameworks](#theme-frameworks)
 		- [Theme Unit Test](#theme-unit-test)
 	- [Plugin Development](#plugin-development)
 		- [Debug] (#debug-plugins)
@@ -18,8 +19,16 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 * [WordPress on GitHub](https://github.com/WordPress/WordPress) - WordPress core on GitHub!
 	
 ## Theme Development
+* [WordPress Theme Development Codex](http://codex.wordpress.org/Theme_Development) - WordPress theme development codex by WordPress.org.
+
+## Theme Frameworks
+* [Genesis](http://my.studiopress.com/themes/genesis/) - Genesis is one of the most popular WordPress theme framework.
+* [Thesis](http://diythemes.com/) - Thesis is another most popular framework for WordPress.
+* [Gantry](http://gantry-framework.org/) - Widgetized Responsive WordPress theme development framework based on Twitter Bootstrap.
 
 ## Theme Unit Test
+* [Theme Unit Test by WordPress](http://codex.wordpress.org/Theme_Unit_Test) - WordPress.org offered WordPress Theme Unit Test Standards.
+* [WP Test IO](http://wptest.io/) - WordPress Unit Test with demo data considering [WordPress Theme Unit Test Codex](http://codex.wordpress.org/Theme_Unit_Test).
 	
 ## Plugin Development
 
