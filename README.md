@@ -6,10 +6,10 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 	- [Core](#core)
 	- [Theme Development](#theme-development)
 	 	- [Theme Frameworks](#theme-frameworks)
-		- [Theme Unit Test](#theme-unit-test)
+		- [Theme Testing](#theme-testing)
 	- [Plugin Development](#plugin-development)
 		- [Debug] (#debug-plugins)
-	- [Command Line] (#commandline)
+	- [Command Line] (#command-line)
 - [Resources](#resources)
 	- [Websites](#websites)
 	- [Books](#books)
@@ -26,15 +26,15 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 * [Thesis](http://diythemes.com/) - Thesis is another most popular framework for WordPress.
 * [Gantry](http://gantry-framework.org/) - Widgetized Responsive WordPress theme development framework based on Twitter Bootstrap.
 
-## Theme Unit Test
+## Theme Testing
 * [Theme Unit Test by WordPress](http://codex.wordpress.org/Theme_Unit_Test) - WordPress.org offered WordPress Theme Unit Test Standards.
 * [WP Test IO](http://wptest.io/) - WordPress Unit Test with demo data considering [WordPress Theme Unit Test Codex](http://codex.wordpress.org/Theme_Unit_Test).
+* [Theme Check Plugins](https://wordpress.org/plugins/theme-check/) - A WordPress plugins to check WordPress Theme standards and practices. A great theme development tools based on [WordPress Theme Development Codex](http://codex.wordpress.org/Theme_Development) 
+* [Monster Widget](https://wordpress.org/plugins/monster-widget/) - Provides a quick and easy method of adding all core widgets to a sidebar for testing purposes.
 	
 ## Plugin Development
 
 ## Debug plugins
-*Debug plugins.*
-
 * [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
 * [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content. 
 
