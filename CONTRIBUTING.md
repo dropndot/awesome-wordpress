@@ -1,6 +1,6 @@
-# Contribution Guidelines  
+# Contribution Guidelines
 
-The aim of the list is to provide guidlines for WordPress Premium Quality Theme and Plugins Development. 
+The aim of this list is to provide guidlines for WordPress Premium Quality Theme and Plugins Development. 
 This means that suggested resources is either
 
 (a) Widely recommended and used regardless of your personal opinion
@@ -9,7 +9,7 @@ This means that suggested resources is either
 
 (b) Absolutely unique in its approach and function
 
-Self-promotion is frowned upon and will be reviewed critically but the suggestion will of course be approved if the criteria match.
+The suggestion will of course be approved if the criteria match.
 
 Furthermore, please ensure your pull request follows the following guidlines:
 
