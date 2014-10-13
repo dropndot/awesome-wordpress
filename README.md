@@ -5,6 +5,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
 	- [Theme Development](#theme-development)
+		- [Theme Features](#theme-common-and-popular-features)
 	 	- [Theme Frameworks](#theme-frameworks)
 	 	- [Theme Development Components](#theme-development-components)
 	 	- [jQuery Components](#jquery-components)
@@ -25,6 +26,9 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 ## Theme Development
 * [WordPress Theme Development Codex](http://codex.wordpress.org/Theme_Development) - WordPress theme development codex by WordPress.org.
 
+## Theme Common And Popular Features
+* [Slider](http://www.jssor.com/) - A jQuery Plugins you can use to create a slider.
+
 ## Theme Frameworks
 * [Genesis](http://my.studiopress.com/themes/genesis/) - Genesis is one of the most popular WordPress theme framework.
 * [Thesis](http://diythemes.com/) - Thesis is another most popular framework for WordPress.
@@ -34,6 +38,15 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 ## Theme Development Components
 * [Aqua Resizer](https://github.com/syamilmj/Aqua-Resizer) - Resize WordPress images on the fly.
 * [TGM-Plugin-Activation](https://github.com/thomasgriffin/TGM-Plugin-Activation) - Bundle your theme required WordPress Plugins in a single page for admin user with install/update option. 
+
+## jQuery Components
+* [JSSor Slider](http://www.jssor.com/) - A jQuery Plugins you can use to create a slider.
+* [jQuery.NiceScroll](https://github.com/inuyaksa/jquery.nicescroll) - Nicescroll plugin for jquery to create scrollbars like iphone/ipad.
+* [Isotope](http://isotope.metafizzy.co/) - Isotope to create item filter & sort magical layouts.
+* [Superfish](https://github.com/joeldbirch/superfish) - Superfish is a jQuery plugin that adds usability enhancements to existing multi-level drop-down menus.
+* [jQuery Parallax](http://www.ianlunn.co.uk/plugins/jquery-parallax/) - Parallax image background jquery plugins.
+* [jQuery countTo](https://github.com/mhuggins/jquery-countTo) - A jQuery plugin that will count up (or down) to a target number at a specified speed. 
+* [jQuery videoBG](https://github.com/sydlawrence/jquery.videoBG) - Adding HTML5 video backgrounds.
 
 ## Theme Testing
 * [Theme Unit Test by WordPress](http://codex.wordpress.org/Theme_Unit_Test) - WordPress.org offered WordPress Theme Unit Test Standards.
