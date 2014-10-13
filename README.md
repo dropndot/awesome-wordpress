@@ -1,4 +1,4 @@
-# Awesome WordPress 
+# Awesome WordPress  
 
 A curated list of Awesome WordPress Theme, Plugins and Framework development Resources. Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 

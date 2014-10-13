@@ -1,4 +1,4 @@
-# Contribution Guidelines 
+# Contribution Guidelines  
 
 The aim of the list is to provide guidlines for WordPress Premium Quality Theme and Plugins Development. 
 This means that suggested resources is either
