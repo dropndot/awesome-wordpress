@@ -40,11 +40,13 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 * [WP Test IO](http://wptest.io/) - WordPress Unit Test with demo data considering [WordPress Theme Unit Test Codex](http://codex.wordpress.org/Theme_Unit_Test).
 * [Theme Check Plugins](https://wordpress.org/plugins/theme-check/) - A WordPress plugins to check WordPress Theme standards and practices. A great theme development tools based on [WordPress Theme Development Codex](http://codex.wordpress.org/Theme_Development) 
 * [Monster Widget](https://wordpress.org/plugins/monster-widget/) - Provides a quick and easy method of adding all core widgets to a sidebar for testing purposes.
+* [WordPress Coding Standards](http://codex.wordpress.org/WordPress_Coding_Standards) - The WordPress coding standards.
 	
 ## Plugin Development
 * [Writing a Plugin](http://codex.wordpress.org/Writing_a_Plugin) - WordPress plugins development codex by WordPress.org.
 
 ## Debug plugins
+* [Developer](https://wordpress.org/plugins/developer/) - A plugin, which helps WordPress developers plugins development. 
 * [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
 * [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content. 
 
