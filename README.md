@@ -1,12 +1,12 @@
 # Awesome WordPress  
 
-A curated list of Awesome WordPress Theme, Plugins and Framework development Resources. Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
+A curated list of Awesome WordPress Theme, Plugins and Framework development Resources. Inspired by bayandin [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
-	- [Themes](#themes)
-	- [Themes](#themes)
-	- [Plugins](#plugins)
+	- [Theme Development](#theme-development)
+		- [Theme Unit Test](#theme-unit-test)
+	- [Plugin Development](#plugin-development)
 		- [Debug] (#debug-plugins)
 	- [Command Line] (#commandline)
 - [Resources](#resources)
@@ -15,13 +15,13 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 - [Contributing](#contributing)
 
 ## Core
-* [WordPress on GitHub](https://github.com/WordPress/WordPress) - WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags!
+* [WordPress on GitHub](https://github.com/WordPress/WordPress) - WordPress core on GitHub!
 	
-## Themes	
-	
-## Plugins
+## Theme Development
 
-* [Posts 2 Posts](https://wordpress.org/plugins/posts-to-posts/) - Efficient many-to-many connections between posts, pages, custom post types, users. 
+## Theme Unit Test
+	
+## Plugin Development
 
 ## Debug plugins
 *Debug plugins.*
@@ -32,7 +32,6 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 ## Command line
 
 * [WP-CLI](http://wp-cli.org/) - WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browse.
-
 
 ## Resources
 
