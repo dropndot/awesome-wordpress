@@ -48,6 +48,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 * [jQuery Parallax](http://www.ianlunn.co.uk/plugins/jquery-parallax/) - Parallax image background jquery plugins.
 * [jQuery countTo](https://github.com/mhuggins/jquery-countTo) - A jQuery plugin that will count up (or down) to a target number at a specified speed. 
 * [jQuery videoBG](https://github.com/sydlawrence/jquery.videoBG) - Adding HTML5 video backgrounds.
+* [Fullcalendar](http://fullcalendar.io/)
 
 ## Theme Testing
 * [Theme Unit Test by WordPress](http://codex.wordpress.org/Theme_Unit_Test) - WordPress.org offered WordPress Theme Unit Test Standards.
