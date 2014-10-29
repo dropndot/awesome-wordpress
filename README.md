@@ -50,6 +50,11 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 * [jQuery videoBG](https://github.com/sydlawrence/jquery.videoBG) - Adding HTML5 video backgrounds.
 * [Fullcalendar](http://fullcalendar.io/) - A jQuery event calendar plugins. Customizable and open source.
 * [jQuery One Page Nav](https://github.com/davist11/jQuery-One-Page-Nav) - Smooth scrolling and smart navigation when user scrolls on one-page sites.
+* [Bootstrap Hover Dropdown](https://github.com/CWSpear/bootstrap-hover-dropdown) - An unofficial Bootstrap plugin to enable Bootstrap dropdowns to activate on hover and provide a nice user experience.
+* [Pretty Photo](https://github.com/scaron/prettyphoto) - prettyPhoto is a jQuery based lightbox clone.
+* [Animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
+* [Images Loaded](https://github.com/desandro/imagesloaded) - JavaScript is all like "You images done yet or what?" 
+http://imagesloaded.desandro.com
 
 ## Theme Testing
 * [Theme Unit Test by WordPress](http://codex.wordpress.org/Theme_Unit_Test) - WordPress.org offered WordPress Theme Unit Test Standards.
