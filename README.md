@@ -49,6 +49,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 * [jQuery countTo](https://github.com/mhuggins/jquery-countTo) - A jQuery plugin that will count up (or down) to a target number at a specified speed. 
 * [jQuery videoBG](https://github.com/sydlawrence/jquery.videoBG) - Adding HTML5 video backgrounds.
 * [Fullcalendar](http://fullcalendar.io/) - A jQuery event calendar plugins. Customizable and open source.
+* [jQuery One Page Nav](https://github.com/davist11/jQuery-One-Page-Nav) - Smooth scrolling and smart navigation when user scrolls on one-page sites.
 
 ## Theme Testing
 * [Theme Unit Test by WordPress](http://codex.wordpress.org/Theme_Unit_Test) - WordPress.org offered WordPress Theme Unit Test Standards.
