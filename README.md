@@ -72,7 +72,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 * [Unsplash Search](http://www.arthurweill.fr/Unsplash/en) - Search Unsplash photos by category.
 * [Unsplash Grid View](https://unsplash.com/grid) - Visit Unsplash in a grid view.
 * [Unsplash Twitter](https://twitter.com/unsplash) - Follow Unsplash on twitter.
-* [Jay Mantri](http://jaymantri.com/) - Free (do anything (CC0)) make magic. high-resolution stock photos. 7 new photos every thursday.
+* [Jay Mantri](http://jaymantri.com/) - Free do anything (CC0) make magic. high-resolution stock photos. 7 new photos every thursday.
 
 ## Command line
 * [WP-CLI](http://wp-cli.org/) - WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browse.
