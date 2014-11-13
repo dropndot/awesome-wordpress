@@ -4,6 +4,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
+	- [Book and URLs](#book)
 	- [Theme Development](#theme-development)
 		- [Theme Features](#theme-common-and-popular-features)
 	 	- [Theme Frameworks](#theme-frameworks)
@@ -23,6 +24,9 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 
 ## Core
 * [WordPress on GitHub](https://github.com/WordPress/WordPress) - WordPress core on GitHub!
+
+## Book and URLs
+* [Hookr](http://hookr.io/) - A WordPress Hook/API Index
 	
 ## Theme Development
 * [WordPress Theme Development Codex](http://codex.wordpress.org/Theme_Development) - WordPress theme development codex by WordPress.org.
