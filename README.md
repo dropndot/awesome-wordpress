@@ -16,7 +16,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 		- [Open Source Plugins](#open-source-plugins)	
 		- [Premium Plugins](#premium-plugins)
 		- [Debug](#debug-plugins)
-	- [Demo Contents](#theme-demo-resource)
+	- [Resources](#theme-resource)
 	- [Command Line](#command-line)
 	- [Marketplaces](#marketplaces)
 - [Communities](#communities)
@@ -76,13 +76,15 @@ http://imagesloaded.desandro.com
 * [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content. 
 
 
-## Theme Demo Resource
+## Theme Resources
 *Sometimes you need to find some creative commons stock photos to use on your premium WordPress Theme demo, Here are some urls for you.*
 * [Unsplash](https://unsplash.com/) - Free (do whatever you want) high-resolution stock photos. 10 new photos every 10 days.
 * [Unsplash Search](http://www.arthurweill.fr/Unsplash/en) - Search Unsplash photos by category.
 * [Unsplash Grid View](https://unsplash.com/grid) - Visit Unsplash in a grid view.
 * [Unsplash Twitter](https://twitter.com/unsplash) - Follow Unsplash on twitter.
 * [Jay Mantri](http://jaymantri.com/) - Free do anything (CC0) make magic. high-resolution stock photos. 7 new photos every thursday.
+* [icomoon.io](https://icomoon.io/) - Icon font + Generator.
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/) - The iconic font and CSS toolkit.
 
 ## Command line
 * [WP-CLI](http://wp-cli.org/) - WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browse.
