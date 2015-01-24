@@ -27,6 +27,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 
 ## Book and URLs
 * [Hookr](http://hookr.io/) - A WordPress Hook/API Index
+* [sixrevisions.com](http://sixrevisions.com/wordpress/wordpress-plugin-development-tips/) - WordPress Plugin Development Tips
 	
 ## Theme Development
 * [WordPress Theme Development Codex](http://codex.wordpress.org/Theme_Development) - WordPress theme development codex by WordPress.org.
