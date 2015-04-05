@@ -16,7 +16,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 		- [Open Source Plugins](#open-source-plugins)	
 		- [Premium Plugins](#premium-plugins)
 		- [Debug](#debug-plugins)
-	- [Resources](#theme-resource)
+	- [Resources](#theme-resources)
 	- [Command Line](#command-line)
 	- [Marketplaces](#marketplaces)
 - [Communities](#communities)
