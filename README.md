@@ -87,6 +87,7 @@ http://imagesloaded.desandro.com
 * [picjumbo.com](http://picjumbo.com/) - PicJumbo free hight - resolution stock photos.
 * [icomoon.io](https://icomoon.io/) - Icon font + Generator.
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/) - The iconic font and CSS toolkit.
+* [Freebie Supply](http://freebie.supply/) - 300+ Awesome Free Things for Entrepreneurs & Startups.
 
 ## Command line
 * [WP-CLI](http://wp-cli.org/) - WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browse.
