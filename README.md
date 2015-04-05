@@ -4,7 +4,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
-	- [Book and URLs](#book)
+	- [Book and URLs](#book-and-urls)
 	- [Theme Development](#theme-development)
 		- [Theme Features](#theme-common-and-popular-features)
 	 	- [Theme Frameworks](#theme-frameworks)
@@ -40,6 +40,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 * [Thesis](http://diythemes.com/) - Thesis is another most popular framework for WordPress.
 * [Gantry](http://gantry-framework.org/) - Widgetized Responsive WordPress theme development framework based on Twitter Bootstrap.
 * [WordPress Theme Option Framework](https://wordpress.org/plugins/options-framework/) - A framework for building theme options.
+* [Titan](https://github.com/gambitph/Titan-Framework) - Titan Framework - Awesome WordPress Option Framework
 
 ## Theme Development Components
 * [Aqua Resizer](https://github.com/syamilmj/Aqua-Resizer) - Resize WordPress images on the fly.
