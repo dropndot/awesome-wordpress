@@ -66,7 +66,7 @@ http://imagesloaded.desandro.com
 ## Front End Components
 * [Twitter Bootstrap](http://getbootstrap.com//) - Most popular front-end framework for developing responsive, mobile first projects on the web.
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/) - The iconic font and CSS toolkit
-* [](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
+* [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 
 ## Theme Testing
 * [Theme Unit Test by WordPress](http://codex.wordpress.org/Theme_Unit_Test) - WordPress.org offered WordPress Theme Unit Test Standards.
