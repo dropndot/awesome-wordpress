@@ -10,6 +10,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 	 	- [Theme Frameworks](#theme-frameworks)
 	 	- [Theme Development Components](#theme-development-components)
 	 	- [jQuery Components](#jquery-components)
+	 	- [Front-End Components](#front-end-components)
 		- [Theme Testing](#theme-testing)
 	- [Plugin Development](#plugin-development)
 		- [WordPress Powered Plugins](#wordpress-powered-plugins)
@@ -61,6 +62,11 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 * [Animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 * [Images Loaded](https://github.com/desandro/imagesloaded) - JavaScript is all like "You images done yet or what?" 
 http://imagesloaded.desandro.com
+
+## Front End Components
+* [Twitter Bootstrap](http://getbootstrap.com//) - Most popular front-end framework for developing responsive, mobile first projects on the web.
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/) - The iconic font and CSS toolkit
+* [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 
 ## Theme Testing
 * [Theme Unit Test by WordPress](http://codex.wordpress.org/Theme_Unit_Test) - WordPress.org offered WordPress Theme Unit Test Standards.
