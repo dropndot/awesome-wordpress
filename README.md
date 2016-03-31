@@ -44,6 +44,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 * [Layers](http://www.layerswp.com/) - Layers is another new generation theme framework for WordPress.
 * [Gantry](http://gantry-framework.org/) - Widgetized Responsive WordPress theme development framework based on Twitter Bootstrap.
 * [WordPress Theme Option Framework](https://wordpress.org/plugins/options-framework/) - A framework for building theme options.
+* [Codestar Framework](http://codestarframework.com/) - A Lightweight and easy-to-use WordPress Options Framework.
 * [Titan](https://github.com/gambitph/Titan-Framework) - Titan Framework - Awesome WordPress Option Framework
 
 ## Theme Development Components
