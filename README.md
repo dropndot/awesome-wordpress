@@ -81,6 +81,7 @@ http://imagesloaded.desandro.com
 	
 ## Plugin Development
 * [Writing a Plugin](http://codex.wordpress.org/Writing_a_Plugin) - WordPress plugins development codex by WordPress.org.
+* [Repeatable Metaboxes](http://fieldmanager.org/) - Fieldmanager is a toolkit for developers to create complex administration screens in WordPress.
 
 ## Debug plugins
 * [Developer](https://wordpress.org/plugins/developer/) - A plugin, which helps WordPress developers plugins development. 
