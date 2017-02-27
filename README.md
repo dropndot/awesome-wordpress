@@ -46,6 +46,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 * [WordPress Theme Option Framework](https://wordpress.org/plugins/options-framework/) - A framework for building theme options.
 * [Codestar Framework](http://codestarframework.com/) - A Lightweight and easy-to-use WordPress Options Framework.
 * [Titan](https://github.com/gambitph/Titan-Framework) - Titan Framework - Awesome WordPress Option Framework
+* [WordPlate](https://wordplate.github.io/) - WordPlate tries to simplify the fuzziness around WordPress development.
 
 ## Theme Development Components
 * [Aqua Resizer](https://github.com/syamilmj/Aqua-Resizer) - Resize WordPress images on the fly.
