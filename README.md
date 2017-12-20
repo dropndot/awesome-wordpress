@@ -8,6 +8,8 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 	- [Theme Development](#theme-development)
 		- [Theme Features](#theme-common-and-popular-features)
 	 	- [Theme Frameworks](#theme-frameworks)
+		- [Starter Themes](#starter-themes)
+		- [Yeoman Generator](#yeoman-generator)
 	 	- [Theme Development Components](#theme-development-components)
 	 	- [jQuery Components](#jquery-components)
 	 	- [Front-End Components](#front-end-components)
@@ -46,6 +48,13 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 * [WordPress Theme Option Framework](https://wordpress.org/plugins/options-framework/) - A framework for building theme options.
 * [Codestar Framework](http://codestarframework.com/) - A Lightweight and easy-to-use WordPress Options Framework.
 * [Titan](https://github.com/gambitph/Titan-Framework) - Titan Framework - Awesome WordPress Option Framework
+
+## Starter Themes
+* [tStarter](https://github.com/tojibon/tStarter) - A titanframework, bootstrap, webpack, sass based starter theme. 
+* [Emi](https://github.com/zoerooney/Emi) - Emi, Sass and Gulp-ready WordPress starter theme.
+
+## Yeoman Generator
+* [Yo-Emi](https://github.com/zoerooney/yo-emi) - Yeoman generator for Emi, a clean, Sass and Gulp-ready WordPress starter theme
 
 ## Theme Development Components
 * [Aqua Resizer](https://github.com/syamilmj/Aqua-Resizer) - Resize WordPress images on the fly.
