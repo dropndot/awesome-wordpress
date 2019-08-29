@@ -123,7 +123,7 @@ http://imagesloaded.desandro.com
 * [WordPress Listed](https://wordpress.org/themes/commercial/) - Other sources to buy Premium WordPress Theme.
 
 ## Communities
-* [stackoverflow](http://stackoverflow.com/questions/tagged/wordpress) - Question/answer platform.
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/wordpress) and sister site [WordPress.StackExchange.com](https://wordpress.stackexchange.com) - Question/answer platform.
 
 ## Contributing
 
