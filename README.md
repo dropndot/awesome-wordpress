@@ -92,6 +92,10 @@ http://imagesloaded.desandro.com
 * [Writing a Plugin](http://codex.wordpress.org/Writing_a_Plugin) - WordPress plugins development codex by WordPress.org.
 * [Repeatable Metaboxes](http://fieldmanager.org/) - Fieldmanager is a toolkit for developers to create complex administration screens in WordPress.
 
+## WordPress Powered Plugins
+* [Form Analytics Pro for Gravity Forms](https://oddjar.com/wordpress-plugins/form-analytics-pro-for-gravity-forms/) - Zero-config form conversion tracking for Gravity Forms with built-in analytics dashboard.
+* [Global Search for Gravity Forms](https://oddjar.com/wordpress-plugins/global-search-for-gravity-forms/) - Cross-form entry search for the Gravity Forms admin, allowing you to search across all form entries from a single interface.
+
 ## Debug plugins
 * [Developer](https://wordpress.org/plugins/developer/) - A plugin, which helps WordPress developers plugins development. 
 * [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
