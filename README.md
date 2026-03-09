@@ -95,7 +95,10 @@ http://imagesloaded.desandro.com
 ## Debug plugins
 * [Developer](https://wordpress.org/plugins/developer/) - A plugin, which helps WordPress developers plugins development. 
 * [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
-* [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content. 
+* [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content.
+
+## Open Source Plugins
+* [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - Plugin for Generative Engine Optimization (GEO) — manages AI crawler access via robots.txt, auto-generates llms.txt, and injects JSON-LD structured data for AI search engines like ChatGPT, Perplexity, and Gemini.
 
 ##WordPress Services
 *List of some userful services for WordPress platform*
