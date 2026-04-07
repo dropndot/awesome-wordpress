@@ -20,6 +20,7 @@ A curated list of Awesome WordPress Theme, Plugins and Framework development Res
 		- [Premium Plugins](#premium-plugins)
 		- [Debug](#debug-plugins)
 	- [WordPress Services](#wordpress-services)
+    - [Wordpress Image Seo](#wordpress-image-seo)
 	- [Resources](#theme-resources)
 	- [Command Line](#command-line)
 	- [Marketplaces](#marketplaces)
@@ -97,10 +98,13 @@ http://imagesloaded.desandro.com
 * [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
 * [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content. 
 
-##WordPress Services
+## WordPress Services
 *List of some userful services for WordPress platform*
 * [ManageWP](https://managewp.com/) - Manage all your WordPress sites from one powerful dashboard.
 * [InfiniteWP](http://infinitewp.com/) - Never login to your WordPress dashboards ever again. Control ALL your sites from a single, powerful admin panel.
+
+## Wordpress Image Seo
+* [Alt Audit](https://altaudit.com) - AI-powered alt text generator and WCAG 2.1 compliance checker for WordPress. Bulk generation, rule-based templates (free, offline), 5-status quality scoring. WordPress plugin + SaaS.
 
 ## Theme Resources
 *Sometimes you need to find some creative commons stock photos to use on your premium WordPress Theme demo, Here are some urls for you.*
